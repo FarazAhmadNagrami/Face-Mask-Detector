@@ -11,5 +11,5 @@ opencv-contrib-python
 Werkzeug==1.0.1
 wincertstore==0.2
 facenet-pytorch
-https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org torch===0.4.1 torchvision===0.4.2 -f https://download.pytorch.org/whl/torch_stable.html
 fastai
